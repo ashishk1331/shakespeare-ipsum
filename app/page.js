@@ -1,6 +1,6 @@
 "use client";
-import Header from "../components/Header.jsx";
-import Content from "../components/Content";
+import Header from "@/components/Header";
+import Content from "@/components/Content";
 import { sonnets } from "shakespeare-data";
 import { Quotes } from "@phosphor-icons/react";
 import { CopyToClipboard } from "react-copy-to-clipboard";
